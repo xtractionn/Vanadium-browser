@@ -1,6 +1,6 @@
 # Vanadium Browser for Android
 
-![Vanadium Browser](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kuketz-blog.de%2Fvanadium-sichere-und-datenschutzfreundliche-android-browser-teil-6%2F&psig=AOvVaw0eT7mnOXt3APXqNZgbJD3j&ust=1741521182419000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiUkpO2-osDFQAAAAAdAAAAABAE)
+![Vanadium Browser](/storage/emulated/0/Download)
 
 
 Vanadium Browser is a fast, secure, and privacy-focused web browser designed for a seamless browsing experience. Whether you're browsing the web for work, entertainment, or privacy, Venedium has you covered with cutting-edge features and user-friendly design.
