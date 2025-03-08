@@ -13,6 +13,7 @@ Vanadium Browser is a fast, secure, and privacy-focused web browser designed for
 - **Security**: Regular updates and advanced security features to protect you from threats.
 - **Open Source**: Venedium Browser is open-source, allowing the community to contribute and help improve the project.
 
+![Vanadium Browser](https://github.com/xtractionn/Vanadium-browser/blob/0080f51fabd98a90433f70da1dcb405c1f9fb6dc/IMG_20250308_210547_552.jpg)
 
 ## Installation
 
